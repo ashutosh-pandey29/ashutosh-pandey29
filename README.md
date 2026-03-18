@@ -1,113 +1,153 @@
-# Hello! 👋
-**I’m Ashutosh Pandey**  
+<div align="center">
 
-🎓 **Education:**  
-- **BCA** – Prof. Rajendra Singh (Rajju Bhaiya) University, Prayagraj  
-- **MCA** – Shri Krishna University  
+# 👋 Hey, I'm Ashutosh Pandey
 
-💻 **Aspiring Full-Stack Developer** – Primarily focused on **backend development**.  
-🌱 **Current Status:** Fresher, passionate about **building full-stack applications** and learning new technologies.  
+### 🚀 Full Stack Developer | MERN Stack Enthusiast
 
----
-
-
-## 🛠️ Tech Stack & Tools  
-
-| Frontend | Backend | Databases | Tools |
-|----------|---------|-----------|-------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![AI Tools](https://img.shields.io/badge/AI-ChatGPT%20%7C%20Cloud-00C0F0?style=for-the-badge) | | |
-| ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | | | |
-| ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) | | | |
-| ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) | | | |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | | | |
-
-
-
-### 🌐 Expertise  
-- **Website Development**  
-- **Web Application Development**  
-- **Hosting & Deployment**  
+<p>
+  <a href="mailto:ashutosh2239@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ashutosh-pandey29">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="tel:+919305172493">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 💼 Internship Experience  
+</div>
 
-**Web Developer Intern** – **AMDOX TECHNOLOGY**  
-🗓️ *October 2025 – January 2026 (3 Months)* 
+## 🧑‍💻 About Me
 
-  *work mode - remote*
+> **MERN Stack Developer** passionate about building **production-ready**, **scalable** full-stack applications.
 
-- Worked on **Job Portal** and **Certificate Verification System** projects.  
-- Collaborated with the team to **develop, implement, and enhance web functionalities**.  
-- Gained hands-on experience in **frontend & backend development**, integrating databases and APIs.  
-- Contributed to **real-world project features** that were deployed for company use.  
-
----
-
-## 📌 Projects  
-
-### **1️⃣ Jobify – Job Portal**  
-💻 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, Node.js, Express, MySQL  
-
-**Key Contributions:**  
-- Enhanced **UI design** and improved overall **user experience**.  
-- Managed and optimized **data flow** between frontend and backend.  
-- Designed, developed, and tested **RESTful APIs**.  
-- Established smooth **frontend-backend connectivity**.  
-- Fixed critical **bugs** and improved app stability.  
-- Led **project workflow** and coordinated tasks within the team.  
-- Implemented **frontend features** and handled **API responses** efficiently.  
-
+- 🔭 Currently pursuing **MCA** at Shri Krishna University (3rd Semester)
+- 💡 Experienced with **JWT Auth**, **RBAC**, **Socket.io**, and **Payment Gateways**
+- 🤖 Passionate about **AI Integration** (OpenAI / Gemini / Groq APIs)
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, REST APIs**
 
 ---
 
-### **2️⃣ Certify – Certificate Verification System**  
-💻 **Tech Stack:** MERN (MongoDB, Express, React, Node.js)  
+## 🛠️ Tech Stack
 
-**Key Contributions:**  
-- Developed **backend APIs** to manage certificate verification.  
-- Hosted and deployed the application for **team accessibility**.  
-- Ensured seamless **integration between frontend and backend**.  
-- Streamlined workflow to make the system **efficient and user-friendly**.  
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
----
-
-### **🔹 Mini / Practice Projects**  
-
-- **ToDo App (React)**  
-  - Built a **dynamic task management app** with React.  
-  - Implemented **CRUD operations**, state management, and user-friendly UI.  
-
-- **Shopping Cart App (React)**  
-  - Developed a **shopping cart system** for products.  
-  - Managed **cart operations, product listing, and responsive design**.  
-
----
-
-
-## 🌍 Languages & Hobbies  
-
-- **Languages:** English (Professional), Hindi (Native)  
-- **Hobbies:** Coding, Exploring New Technologies, AI Tools  
+### 🔗 Integrations & Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 Featured Projects
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutosh-pandey29&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-pandey29&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pandey29&theme=radical)  
+### 🏥 Hospital Management System
+> A full-featured, production-ready hospital management platform
+
+- 🏗️ Built with **MERN Stack** using **MVC Architecture** & **Service Layer Pattern**
+- 🔐 Implemented **JWT Authentication** (Access & Refresh Tokens) + **Role-Based Access Control (RBAC)**
+- ⚡ Real-time updates via **Socket.io**
+- 📅 Complete appointment lifecycle: **booking → rescheduling → tracking**
+- 💳 Integrated **Payment Gateway** with **rate limiting** for security
+- 🛡️ Centralized error handling with clean REST API design
+
+[![View Project](https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashutosh-pandey29)
 
 ---
 
-## 📫 Let’s Connect  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ashutosh-pandey-682b3b265)  
-- 💻 [GitHub](https://github.com/ashutosh-pandey29)  
+### 🤖 AI Cold Email Generator *(Ongoing)*
+> An intelligent email generation tool powered by AI
+
+- 🧠 Powered by **Groq API** for AI-generated, high-converting cold emails
+- 🔐 Secure **JWT Authentication** with RESTful API design
+- ⚛️ Dynamic **React UI** for real-time email customization
+- 🗄️ **MongoDB** for email history tracking
+- 🔒 Secure API key handling via **environment variables**
+
+[![View Project](https://img.shields.io/badge/View_Project-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashutosh-pandey29)
 
 ---
 
-⭐️ *"Code. Learn. Build. Repeat."*  
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh-pandey29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-pandey29&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pandey29&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Status |
+|--------|-------------|--------|
+| 🎓 MCA (Master of Computer Application) | Shri Krishna University | Pursuing — 3rd Semester |
+| 🎓 BCA (Bachelor of Computer Application) | Allahabad State University | Completed — 73% |
+
+---
+
+## 🌐 Languages
+
+- 🇮🇳 **Hindi** — Fluent
+- 🇬🇧 **English** — Intermediate
+
+---
+
+## 💡 What I'm Good At
+
+```
+✅ Production-Ready Full Stack Development
+✅ REST API Design & Development
+✅ JWT Authentication + Role-Based Access Control
+✅ Real-Time Systems with Socket.io
+✅ AI API Integration (OpenAI / Gemini / Groq)
+✅ Payment Gateway Integration
+✅ MVC Architecture & Clean Code Practices
+✅ Scalable Backend with Node.js + Express
+```
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Amazing!
+
+<p>
+  <a href="mailto:ashutosh2239@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ashutosh-pandey29">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ashutosh-pandey29&color=blueviolet&style=for-the-badge)
+
+⭐️ *"Code is not just syntax — it's the architecture of ideas."*
+
+</div>
